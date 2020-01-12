@@ -1,0 +1,33 @@
+# Project:    Monokai Alacritty
+# Version:    0.1.0
+# Repository: https://github.com/vui-chee/monokai-alacritty
+# References:
+#   https://github.com/jwilm/alacritty
+
+colors:
+  # Default colors
+  primary:
+    background: '0x0C0C0C'
+    foreground: '0xEBEBEB'
+
+  # Normal colors
+  normal:
+    black:   '0x1A1A1A'
+    red:     '0xF4005F'
+    green:   '0x98E024'
+    yellow:  '0xE0D561'
+    blue:    '0x9765FF'
+    magenta: '0xF4005F'
+    cyan:    '0x58D1EB'
+    white:   '0xC4C5B5'
+
+  # Bright colors
+  bright:
+    black:   '0x484C52'
+    red:     '0xF4005F'
+    green:   '0x98E024'
+    yellow:  '0xE0D561'
+    blue:    '0x9765FF'
+    magenta: '0x58D1EB'
+    cyan:    '0x58D1EB'
+    white:   '0xF6F6EF'
